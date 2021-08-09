@@ -40,7 +40,14 @@ const teamNameChange = {
     "PSV Eindhoven": "PSV",
     "Sparta Rotterdam": "Sparta R",
     "Pacos Ferreira": "Pacos F",
-    "Santa Clara": "Santa C"
+    "Santa Clara": "Santa C",
+    "Dundee United": "Dundee",
+    "Yeni Malatyaspor": "Yeni M",
+    "Genclerbirligi": "Genclerb.",
+    "Oud-Heverlee Leuven": "O-H Leuven",
+    "Waasland-Beveren": "Waasland-B",
+    "Cercle Brugge": "C Brugge",
+    "Asteras Tripolis": "Asteras T",
 };
 
 // #######################    pull dark / light mode parameters    ##################################
